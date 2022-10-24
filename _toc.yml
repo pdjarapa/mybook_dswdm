@@ -7,3 +7,5 @@ chapters:
 - file: markdown
 - file: notebooks
 - file: markdown-notebooks
+- file: hoja1
+- file: hoja2
